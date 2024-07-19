@@ -1,1 +1,1 @@
-# todo-django-prj
+# todo-list
